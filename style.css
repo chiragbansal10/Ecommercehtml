@@ -1,0 +1,12 @@
+/* .category{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: space-between;
+} */
+.categorys{
+    height: 10px;
+}
+.menu{
+    display: flex;
+    justify-content: flex-end;
+}
